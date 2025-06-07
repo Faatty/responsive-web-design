@@ -30,5 +30,4 @@ Each project in this repository is a standalone folder containing its own files 
 
 You can clone the repo and open the individual `index.html` files in your browser:
 ```bash
-git clone https://github.com/YOUR-USERNAME/fcc-responsive-web-design.git
-cd fcc-responsive-web-design
+https://github.com/Faatty/responsive-web-design.git
