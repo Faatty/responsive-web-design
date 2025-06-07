@@ -17,15 +17,14 @@ The Responsive Web Design certification covers:
 
 Each project in this repository is a standalone folder containing its own files (`index.html`, `style.css`, etc.).
 
-| Project Name                | Description                                 | Live Preview         |
-|----------------------------|---------------------------------------------|----------------------|
-| Tribute Page               | A tribute to a historical figure or topic   | [View](#)            |
-| Survey Form                | A responsive form with multiple inputs      | [View](#)            |
-| Product Landing Page       | A product marketing homepage                | [View](#)            |
-| Technical Documentation    | A documentation site using flex layout      | [View](#)            |
-| Personal Portfolio Webpage | A personal portfolio with links and images  | [View](#)            |
+| Project Name                | Description                               
+|----------------------------|---------------------------------------------
+| Tribute Page               | A tribute to a historical figure or topic   
+| Survey Form                | A responsive form with multiple inputs      
+| Product Landing Page       | A product marketing homepage                
+| Technical Documentation    | A documentation site using flex layout      
+| Personal Portfolio Webpage | A personal portfolio with links and images  
 
-> Replace the `#` in "Live Preview" with the actual links once deployed (e.g., GitHub Pages or CodePen).
 
 ## 🚀 How to View
 
